@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dmitrii Remiannikov (@trvl2)
-- ⭐ I’m interested in web applications development
+- ⭐ I’m interested in web applications development with Java Spring and React.JS (and sometimes mobile with Flutter)
 - 📁 My portfolio here [https://fxdev.tech](https://fxdev.tech)
 - ✉️ How to reach me [d.remiannikov@fxdev.tech](mailto:d.remiannikov@fxdev.tech)
 
